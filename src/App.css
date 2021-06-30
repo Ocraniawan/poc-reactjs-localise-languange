@@ -1,0 +1,15 @@
+.App{
+    margin: 20px 50px;
+    padding: 20px 50px;
+}
+
+.wrap-btn-languages{
+    text-align: right;
+}
+
+.btn-language{
+    padding: 5px 15px;
+    margin: 5px 0px 5px 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
